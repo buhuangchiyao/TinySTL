@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/root/TinySTL/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/TinySTL.dir/main.cpp.o -c /root/TinySTL/main.cpp",
+  "file": "/root/TinySTL/main.cpp"
+}
+]
